@@ -8,4 +8,5 @@
 
 
 
-- 🌱 THERE YOU GOOOO (not me)
+- 🌱 THERE YOU GOOOO (not me) v
+- Medium.com
