@@ -10,5 +10,3 @@
 
 - 🌱 THERE YOU GOOOO (not me) v
 - Medium.com
-
-- look at shopify_int_v1
