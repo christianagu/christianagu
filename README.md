@@ -9,7 +9,7 @@
 
 - `🦾` **`Robotic Arm`**<br>
 \\___[ Robotic Arm that is a 2DOF, harmonic drive, Inverse/Forward Kinematics, and Object Detection.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `C`
 
 - `💣` **`Shopify Integration`**<br>
 \\___[ Integration for Shopify and JOOR. Using Docker and Jenkins.<br>
