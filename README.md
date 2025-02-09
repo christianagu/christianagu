@@ -7,19 +7,19 @@
 
 🌱 **Projects**:
 
-- `💉` **`leviathan`**<br>
-\\___[ malware swiss army knife featuring a plethora of injection techniques, evasion methods, etc.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`
+- `💉` **`Robotic Arm`**<br>
+\\___[ Robotic Arm that is a 2DOF, harmonic drive, Inverse/Forward Kinematics, and Object Detection.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`
 
-- `🐔` **`abraxas`**<br>
-\\___[ kernel-mode (r|b)ootkit for windows.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `asm`
+- `🐔` **`Shopify Integration`**<br>
+\\___[ Integration for Shopify and JOOR. Using Docker and Jenkins.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `JavaScript`, `NodeJS`
 
-- `🐧` **`blackbirdOS`**<br>
-\\___[ custom operating system made from scratch.<br>
+- `🐧` **`Blogsite`**<br>
+\\___[ Simple blogsite for projects.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`
 
-⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `CRTE`, `OSCP*`, `PNPT*`
+⭐ **Certifications**: `Network+`, `Security+`*`
 
 📝 **Blog**: I'm currently documenting my progress with malware development, binary exploitation, and soon, os development on my blog which you can find [here](https://www.crow.rip). Here's the most recent post: [Indirect System Calls](https://www.crow.rip/crows-nest/mal/dev/inject/syscalls/indirect-syscalls).
 
