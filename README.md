@@ -7,15 +7,15 @@
 
 🌱 **Projects**:
 
-- `💉` **`Robotic Arm`**<br>
+- `🦾` **`Robotic Arm`**<br>
 \\___[ Robotic Arm that is a 2DOF, harmonic drive, Inverse/Forward Kinematics, and Object Detection.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`
 
-- `🐔` **`Shopify Integration`**<br>
+- `💣` **`Shopify Integration`**<br>
 \\___[ Integration for Shopify and JOOR. Using Docker and Jenkins.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `JavaScript`, `NodeJS`
 
-- `:trollface:` **`Blogsite`**<br>
+- `🐧` **`Blogsite`**<br>
 \\___[ Simple blogsite for projects.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Postgresql`
 
