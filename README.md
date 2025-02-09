@@ -15,13 +15,12 @@
 \\___[ Integration for Shopify and JOOR. Using Docker and Jenkins.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `JavaScript`, `NodeJS`
 
-- `🐧` **`Blogsite`**<br>
+- `:trollface:` **`Blogsite`**<br>
 \\___[ Simple blogsite for projects.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python`, `Postgresql`
 
 ⭐ **Certifications**: `Network+`, `Security+`*`
 
-📝 **Blog**: I'm currently documenting my progress with malware development, binary exploitation, and soon, os development on my blog which you can find [here](https://www.crow.rip). Here's the most recent post: [Indirect System Calls](https://www.crow.rip/crows-nest/mal/dev/inject/syscalls/indirect-syscalls).
-
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,powershell,dotnet,neovim,vim,visualstudio,vscode,arch,windows,github,docker)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,powershell,visualstudio,vscode,windows,github,docker)](https://skillicons.dev)
+
