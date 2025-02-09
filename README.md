@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess%2BNerd%2BFont%2BMono&duration=1999&pause=403&color=49F7B6FD&center=true&random=true&width=540&height=40&lines=Projects%3A+Robotic+Arm;Projects%3A+Blogsite;Studying%3A+Network%2B;Studying%3A+Security%2B;Projects%3A+Shopify+Integration;Studying)](https://git.io/typing-svg)
 
 
-💬 **Me**: Integrations "[content creator](https://www.youtube.com/@crr0ww)" and an Cyber Security enthusiast focusing on offensive development, operating system internals, reverse engineering, and general IT.
+💬 **Me**: Integrations "[content creator](https://www.youtube.com/@relic3359)" and an Cyber Security enthusiast focusing on offensive development, operating system internals, reverse engineering, and general IT.
 
 🌱 **Projects**:
 
