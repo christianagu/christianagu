@@ -11,6 +11,10 @@
 \\___[ Robotic Arm that is a 2DOF, harmonic drive, Inverse/Forward Kinematics, and Object Detection.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c++`, `C`
 
+- `🦾` **`Netflix Clone`**<br>
+\\___[ Netflix clone using .NET, PostgreSQL, React/Node, and C#. Implementing GraphQL API and REST API.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `React`, `NodeJS`, `.NET`, `C#`,
+
 - `💣` **`Shopify Integration`**<br>
 \\___[ Integration for Shopify and JOOR. Using Docker and Jenkins.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `JavaScript`, `NodeJS`
